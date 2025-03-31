@@ -26,4 +26,4 @@ The Simple ToDo App is a straightforward application designed to help users mana
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Simple-ToDo-App.git
+   git clone https://github.com/Shaunak-bit/Simple-ToDo-App.git
